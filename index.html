@@ -524,32 +524,32 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		<div class="container">
 			<h3 class="title">Contact</h3>
 						<div class="contact-us">
-				<form action="mailto:rdatta@caltech.edu" method="post">
+				<form action="form-to-email.php" method="post" name="myemailform">
 					<div class="col-md-6 col-sm-6 col-xs-6 styled-input">
-						<input type="text" name="Name" placeholder="Name" required="">
+						<input type="text" name="name" placeholder="Name" required="">
 					</div>
 					<div class="col-md-6 col-sm-6 col-xs-6 styled-input">
-						<input type="text" name="Last Name" placeholder="Last Name" required="">
-					</div>
-
-					<div class="col-md-6 col-sm-6 col-xs-6 styled-input">
-						<input type="email" name="Email" placeholder="Email" required="">
-
+						<input type="text" name="last name" placeholder="Last Name" required="">
 					</div>
 
 					<div class="col-md-6 col-sm-6 col-xs-6 styled-input">
+						<input type="email" name="email" placeholder="Email" required="">
 
-						<input type="text" name="phone" placeholder="phone" required="">
+					</div>
+
+					<div class="col-md-6 col-sm-6 col-xs-6 styled-input">
+
+						<input type="text" name="phone" placeholder="phone">
 
 					</div>
 					<div class="clearfix"> </div>
 					<div class="styled-input">
 
-						<textarea name="Message" placeholder="Message" required=""></textarea>
+						<textarea name="message" placeholder="Message" required=""></textarea>
 					</div>
 					<div>
 						<div class="click">
-							<input type="submit" value="SEND">
+							<input type="submit" value="SEND FORM">
 						</div>
 					</div>
 				</form>
