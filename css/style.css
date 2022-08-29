@@ -18,9 +18,9 @@ img {
         width: 75px;
 }
 
-li {
+/* li {
         display: inline;
-}
+} */
 
 body {
         background-color: black !important;
@@ -53,12 +53,12 @@ body {
 	padding-bottom: 2em;
 }
        
-#name {
+/* #name {
         text-align: left;
         border: 1px solid red;
-}
+} */
 
-nav {
+/* nav {
         height: 70px;
         line-height: 70px;
         border: 1px  solid green;
@@ -68,5 +68,5 @@ nav {
         list-style: none;
         width: 100%;
         border: 1px solid yellow;
- }
+ } */
 
