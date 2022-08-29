@@ -22,11 +22,10 @@ li {
         display: inline;
 }
 
-body {
+body, html {
         background-color: black !important;
         margin: 0;
         padding: 0;
-        text-align: center;
 }
         
 #header {
