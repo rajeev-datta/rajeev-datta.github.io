@@ -47,10 +47,10 @@ body {
 
 #topNav a {
         color: #d4d9dd;
-	padding-left: 3em;
-	padding-right: 3em;
-	padding-top: 2em;
-	padding-bottom: 2em;
+	padding-left: 8;
+	padding-right: 8;
+	padding-top: 4;
+	padding-bottom: 4;
 }
        
 /* #name {
