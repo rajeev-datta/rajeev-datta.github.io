@@ -67,10 +67,8 @@ body {
         color: white;
 }
        
-#name {
-        text-align: left;
+#logo {
         border: 1px solid red;
-        color: white;
 }
 
 /* nav {
