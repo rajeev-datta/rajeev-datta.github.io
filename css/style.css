@@ -46,6 +46,11 @@ body {
         width: 100%;
 }
 
+#topBar {
+        width: 100%;
+        margin: 0px auto;
+}
+
 #topNav {
         border: 1px  solid green;
 }
