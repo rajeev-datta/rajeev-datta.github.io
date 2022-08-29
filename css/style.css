@@ -45,22 +45,27 @@ body {
         width: 100%;
 }
 
+#topNav {
+        border: 1px  solid green;
+}
+
 #topNav a {
         color: #d4d9dd;
-	/* padding-left: 8;
-	padding-right: 8;
-	padding-top: 4;
-	padding-bottom: 4; */
+	padding-left: 2;
+	padding-right: 2;
+	padding-top: 1;
+	padding-bottom: 1;
 }
 
 #main {
         color: white;
 }
        
-/* #name {
+#name {
         text-align: left;
         border: 1px solid red;
-} */
+        color: white;
+}
 
 /* nav {
         height: 70px;
