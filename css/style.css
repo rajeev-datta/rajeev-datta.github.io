@@ -15,7 +15,7 @@ body {
 
 #header #content {
         margin: 0px auto;
-        width: 800px; /* or whatever */
+        width: 100%; /* or whatever */
 }
        
 #name {
