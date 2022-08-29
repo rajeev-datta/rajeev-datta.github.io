@@ -10,12 +10,12 @@ body {
         margin: 0;
         padding: 0;
         width: 100%;
-        min-height: 50% !important;
+        height: 300px !important;
 }
 
 #header #content {
         margin: 0px auto;
-        width: 100%; /* or whatever */
+        width: 100%;
 }
        
 #name {
