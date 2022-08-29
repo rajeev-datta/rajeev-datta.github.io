@@ -28,6 +28,12 @@ body {
         padding: 0;
         text-align: center;
 }
+
+topNav ul a {
+        display: block;
+        padding: 8px;
+        background-color: #dddddd;
+}
         
 #header {
         /* width: 100%; */
