@@ -40,18 +40,18 @@ body {
         padding-bottom: 15%;
 }
 
-/* #header #content {
+#header #content {
         margin: 0px auto;
         width: 100%;
-} */
+}
 
-#topNav a {
+/* #topNav a {
         color: #d4d9dd;
 	padding-left: 3em;
 	padding-right: 3em;
 	padding-top: 2em;
 	padding-bottom: 2em;
-}
+} */
        
 #name {
         text-align: left;
