@@ -27,7 +27,8 @@ body {
         
 #header {
         width: 100%;
-        background-image: url('https://www.freewebheaders.com/wp-content/gallery/high-tech-designs/electricity-technology-colorful-background-header.jpg?w=100%');
+        background-image: url('https://www.freewebheaders.com/wp-content/gallery/high-tech-designs/electricity-technology-colorful-background-header.jpg');
+        background-repeat: no-repeat;
         margin: 0;
         padding: 0;
         height: 300px !important;
