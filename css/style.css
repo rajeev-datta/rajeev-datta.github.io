@@ -29,7 +29,7 @@ body {
         text-align: center;
 }
 
-topNav ul a {
+a {
         display: block;
         padding: 8px;
         background-color: #dddddd;
