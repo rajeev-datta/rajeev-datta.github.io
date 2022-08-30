@@ -75,11 +75,11 @@ body {
 	background-color: #424246;
 	color: black;
 	padding-bottom: 2em;
+        text-align: center;
 }
 #footer img {
 	width: 75px;
 	padding: 40px;
-        text-align: center;
 }
 
 /* nav {
