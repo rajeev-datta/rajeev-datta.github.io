@@ -64,16 +64,16 @@ body {
         border: 1px solid blue;
 }
 
-#welcome {
+#welcome p {
         font-family: 'Balsamiq Sans', 'cursive';
-        font-size: 200px;
+        font-size: 100px;
         -webkit-text-fill-color: transparent;
         -webkit-text-stroke-width: 4px;
         -webkit-text-stroke-color: #e87f07;
 }
 
 #photo {
-        padding: 150px;
+        padding: 100px;
         border: 1px solid purple;
 }
 
