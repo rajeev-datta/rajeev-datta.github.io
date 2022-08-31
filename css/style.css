@@ -76,6 +76,7 @@ body {
 	color: black;
 	padding-bottom: 2em;
         text-align: center;
+        border: 1px solid green;
 }
 
 #footer img {
