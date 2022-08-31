@@ -59,20 +59,22 @@ body {
 }
 
 #intro {
-        padding-left: 100px;
+        padding-left: 300px;
         padding-right: 100px;
+        border: 1px solid blue;
 }
 
 #welcome {
         font-family: 'Balsamiq Sans', 'cursive';
-        font-size: 75px;
+        font-size: 200px;
         -webkit-text-fill-color: transparent;
         -webkit-text-stroke-width: 4px;
         -webkit-text-stroke-color: #e87f07;
 }
 
 #photo {
-        padding: 100px;
+        padding: 200px;
+        border: 1px solid purple;
 }
 
 #footer{
