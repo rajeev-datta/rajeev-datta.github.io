@@ -56,6 +56,14 @@ body {
         border: 1px solid red;
 }
 
+#intro {
+        padding: 50px;
+}
+
+#photo {
+        padding: 50px;
+}
+
 #footer{
 	background-color: #424246;
 	color: black;
