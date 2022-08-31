@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans:wght@700&display=swap');
+
 li {
         display: inline;
 }
@@ -57,11 +59,20 @@ body {
 }
 
 #intro {
-        padding: 50px;
+        padding-left: 100px;
+        padding-right: 100px;
+}
+
+#welcome {
+        font-family: 'Balsamiq Sans', 'cursive';
+        font-size: 75px;
+        -webkit-text-fill-color: transparent;
+        -webkit-text-stroke-width: 4px;
+        -webkit-text-stroke-color: #e87f07;
 }
 
 #photo {
-        padding: 50px;
+        padding: 100px;
 }
 
 #footer{
