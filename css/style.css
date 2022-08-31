@@ -1,18 +1,3 @@
-.portrait {
-        height: 80px;
-        width: 30px;
-}
-
-.landscape {
-        height: 30px;
-        width: 80px;
-}
-
-.square {
-        height: 75px;
-        width: 75px;
-}
-
 li {
         display: inline;
 }
