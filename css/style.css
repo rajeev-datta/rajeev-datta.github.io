@@ -23,6 +23,14 @@ body {
         padding-bottom: 15%;
 }
 
+#banner {
+        background-image: url('https://t3.ftcdn.net/jpg/03/88/58/16/360_F_388581691_IOrXTAJzWSHtFYtUK5I88CQy2GLyBsdK.jpg');
+        background-size: cover;
+        padding-bottom: 15%;
+        text-align: center;
+        color: white;
+}
+
 #header #content {
         margin: 0px auto;
         width: 100%;
