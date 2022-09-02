@@ -28,6 +28,9 @@ body {
         background-size: cover;
         padding-bottom: 15%;
         text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
         color: white;
         font-size: 100px;
         border: 1px solid red;
