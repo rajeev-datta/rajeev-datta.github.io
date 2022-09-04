@@ -27,9 +27,9 @@ body {
         background-image: url('https://t3.ftcdn.net/jpg/03/88/58/16/360_F_388581691_IOrXTAJzWSHtFYtUK5I88CQy2GLyBsdK.jpg');
         background-size: cover;
         padding-bottom: 15%;
-        display: flex;
+        /* display: flex;
         justify-content: center;
-        align-items: center;
+        align-items: center; */
         font-family: 'Balsamiq Sans', 'cursive';
         font-size: 100px;
         -webkit-text-fill-color: transparent;
