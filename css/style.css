@@ -27,10 +27,13 @@ body {
         background-image: url('https://t3.ftcdn.net/jpg/03/88/58/16/360_F_388581691_IOrXTAJzWSHtFYtUK5I88CQy2GLyBsdK.jpg');
         background-size: cover;
         padding-bottom: 15%;
-        position: relative;
+        /* position: relative; */
         /* display: flex;
         justify-content: center;
         align-items: center; */
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
         /* font-family: 'Balsamiq Sans', 'cursive';
         font-size: 100px;
         -webkit-text-fill-color: transparent;
@@ -40,10 +43,10 @@ body {
 }
 
 #heading {
-        position: absolute;
+        /* position: absolute;
         top: 50%;
         left: 50%;
-        transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%); */
         font-family: 'Balsamiq Sans', 'cursive';
         font-size: 100px;
         -webkit-text-fill-color: transparent;
