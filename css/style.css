@@ -41,6 +41,11 @@ body {
         -webkit-text-stroke-width: 4px;
         -webkit-text-stroke-color: white;
         border: 2px solid turquoise; */
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        resize: vertical;
+        overflow: auto;
 }
 
 #heading {
@@ -48,6 +53,9 @@ body {
         top: 50%;
         left: 50%;
         transform: translate(-50%, -50%); */
+        padding: 20px;
+        resize: vertical;
+        overflow: auto;
         text-align: center;
         font-family: 'Balsamiq Sans', 'cursive';
         height: 200px;
