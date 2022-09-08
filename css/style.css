@@ -41,27 +41,40 @@ body {
         -webkit-text-stroke-width: 4px;
         -webkit-text-stroke-color: white;
         border: 2px solid turquoise; */
-        display: flex;
+        /* display: flex;
         flex-direction: column;
         justify-content: center;
         resize: vertical;
+        overflow: auto; */
+        position: relative;
+        margin: 0 auto;
+        /* padding: 20px; */
+        resize: both;
         overflow: auto;
 }
 
 #heading {
+        width: 50%;
+        transform: translate(-50%, -50%);
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        padding: 20px;
+        resize: both;
+        overflow: auto;
         /* position: absolute;
         top: 50%;
         left: 50%;
         transform: translate(-50%, -50%); */
-        padding: 20px;
+        /* padding: 20px;
         resize: vertical;
-        overflow: auto;
+        overflow: auto; */
         text-align: center;
         font-family: 'Balsamiq Sans', 'cursive';
-        height: 200px;
+        /* height: 200px;
         line-height: 200px;
         text-align: center;
-        font-size: 100px;
+        font-size: 100px; */
         -webkit-text-fill-color: transparent;
         -webkit-text-stroke-width: 4px;
         -webkit-text-stroke-color: white;
