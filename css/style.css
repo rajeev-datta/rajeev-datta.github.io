@@ -73,8 +73,8 @@ body {
         font-family: 'Balsamiq Sans', 'cursive';
         /* height: 200px;
         line-height: 200px;
-        text-align: center;
-        font-size: 100px; */
+        text-align: center; */
+        font-size: 100px;
         -webkit-text-fill-color: transparent;
         -webkit-text-stroke-width: 4px;
         -webkit-text-stroke-color: white;
