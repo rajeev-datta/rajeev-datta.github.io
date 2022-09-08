@@ -32,8 +32,9 @@ body {
         justify-content: center;
         align-items: center; */
         display: flex;
-        flex-direction: column;
-        justify-content: center;
+        align-items: center;
+        /* flex-direction: column; */
+        /* justify-content: center; */
         /* font-family: 'Balsamiq Sans', 'cursive';
         font-size: 100px;
         -webkit-text-fill-color: transparent;
