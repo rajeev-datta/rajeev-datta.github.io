@@ -130,6 +130,10 @@ body {
         border: 1px solid orange;
 }
 
+#SustianGymDesc {
+        padding: 100px;
+}
+
 #photo {
         padding: 100px;
         border: 1px solid purple;
