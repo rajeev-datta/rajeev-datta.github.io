@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans:wght@700&display=swap');
 
+.caption {
+    display: block;
+}
+
 li {
         display: inline;
 }
@@ -130,6 +134,11 @@ body {
         border: 1px solid orange;
 }
 
+#SustianGymImg {
+        padding: 100px;
+        text-align: center;
+}
+
 #SustianGymDesc {
         padding: 100px;
 }
@@ -140,6 +149,7 @@ body {
 
 #CS3Img {
         padding: 100px;
+        text-align: center;
 }
 
 #photo {
