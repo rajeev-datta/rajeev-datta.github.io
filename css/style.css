@@ -134,26 +134,25 @@ body {
         border: 1px solid orange;
 }
 
-#SustianGymImg {
-        padding: 100px;
-        text-align: center;
-}
-
 #SustianGymDesc {
-        padding: 100px;
+        padding-top: 50px;
+        padding-bottom: 50px;
+        padding-left: 100px;
+        padding-right: 100px;
 }
 
 #CS3Desc {
-        padding: 100px;
+        padding-top: 50px;
+        padding-bottom: 50px;
+        padding-left: 100px;
+        padding-right: 100px;
 }
 
 #NNDesc {
-        
-}
-
-#CS3Img {
-        padding: 100px;
-        text-align: center;
+        padding-top: 50px;
+        padding-bottom: 50px;
+        padding-left: 100px;
+        padding-right: 100px;
 }
 
 #photo {
