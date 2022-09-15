@@ -13,16 +13,10 @@ body {
         margin: 0;
         padding: 0;
         min-width: 100%;
-        border: 1px  solid yellow;
 }
         
 #header {
-        /* width: 100%; */
         background-image: url('https://www.freewebheaders.com/wp-content/gallery/high-tech-designs/electricity-technology-colorful-background-header.jpg');
-        /* background-repeat: no-repeat; */
-        /* margin: 0; */
-        /* padding: 0; */
-        /* height: 300px !important; */
         background-size: cover;
         padding-bottom: 15%;
 }
@@ -31,28 +25,8 @@ body {
         background-image: url('https://t3.ftcdn.net/jpg/03/88/58/16/360_F_388581691_IOrXTAJzWSHtFYtUK5I88CQy2GLyBsdK.jpg');
         background-size: cover;
         padding-bottom: 15%;
-        /* position: relative; */
-        /* display: flex;
-        justify-content: center;
-        align-items: center; */
-        /* display: flex;
-        align-items: center; */
-        /* flex-direction: column; */
-        /* justify-content: center; */
-        /* font-family: 'Balsamiq Sans', 'cursive';
-        font-size: 100px;
-        -webkit-text-fill-color: transparent;
-        -webkit-text-stroke-width: 4px;
-        -webkit-text-stroke-color: white;
-        border: 2px solid turquoise; */
-        /* display: flex;
-        flex-direction: column;
-        justify-content: center;
-        resize: vertical;
-        overflow: auto; */
         position: relative;
         margin: 0 auto;
-        /* padding: 20px; */
         resize: both;
         overflow: auto;
 }
@@ -65,23 +39,12 @@ body {
         left: 50%;
         resize: both;
         overflow: auto;
-        /* position: absolute;
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%, -50%); */
-        /* padding: 20px;
-        resize: vertical;
-        overflow: auto; */
         text-align: center;
         font-family: 'Balsamiq Sans', 'cursive';
-        /* height: 200px;
-        line-height: 200px;
-        text-align: center; */
         font-size: 100px;
         -webkit-text-fill-color: transparent;
         -webkit-text-stroke-width: 4px;
         -webkit-text-stroke-color: white;
-        border: 2px solid turquoise;
 }
 
 #header #content {
@@ -92,10 +55,6 @@ body {
 #topBar {
         width: 100%;
         margin: 0px auto;
-}
-
-#topNav {
-        border: 1px  solid green;
 }
 
 #topNav a {
@@ -114,15 +73,10 @@ body {
 #main {
         color: white;
 }
-       
-#logo {
-        border: 1px solid red;
-}
 
 #intro {
         padding-left: 300px;
         padding-right: 100px;
-        border: 1px solid blue;
 }
 
 #welcome {
@@ -131,7 +85,6 @@ body {
         -webkit-text-fill-color: transparent;
         -webkit-text-stroke-width: 4px;
         -webkit-text-stroke-color: #e87f07;
-        border: 1px solid orange;
 }
 
 #SustainGymImg {
@@ -169,11 +122,10 @@ body {
 
 #photo {
         padding: 100px;
-        border: 1px solid purple;
 }
 
 #contactForm {
-        padding: 150px;
+        padding: 100px;
 }
 
 #footer{
@@ -181,18 +133,4 @@ body {
 	color: black;
 	padding-bottom: 2em;
         text-align: center;
-        border: 1px solid green;
 }
-
-/* nav {
-        height: 70px;
-        line-height: 70px;
-        border: 1px  solid green;
- }
-
- nav ul {
-        list-style: none;
-        width: 100%;
-        border: 1px solid yellow;
- } */
-
