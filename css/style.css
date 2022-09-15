@@ -172,6 +172,10 @@ body {
         border: 1px solid purple;
 }
 
+#contactForm {
+        padding: 150px;
+}
+
 #footer{
 	background-color: #424246;
 	color: black;
