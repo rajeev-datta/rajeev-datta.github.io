@@ -175,14 +175,10 @@ body {
 #footer{
 	background-color: #424246;
 	color: black;
+        padding-top: 2em;
 	padding-bottom: 2em;
         text-align: center;
         border: 1px solid green;
-}
-
-#footer img {
-	width: 75px;
-	padding: 40px;
 }
 
 /* nav {
