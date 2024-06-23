@@ -14,7 +14,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 <span style="font-size:0.9em;">
 Christopher Yeh, Victor Li, **Rajeev Datta**, Julio Arroyo, Nicolas Christianson, Chi Zhang, Yize Chen, Mohammad Mehdi Hosseini, Azarang Golmohammadi, Yuanyuan Shi, Yisong Yue, Adam Wierman
 In *NeurIPS 2023* Datasets and Benchmarks Track 
-[[PDF](https://proceedings.neurips.cc/paper_files/paper/2023/file/ba74855789913e5ed36f87288af79e5b-Paper-Datasets_and_Benchmarks.pdf){:style="text-decoration: none"}{:target="_blank"}] [[Code](https://github.com/chrisyeh96/sustaingym){:style="text-decoration: none"}{:target="_blank"}] [[Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/73430.png?t=1702428774.4597354) {:style="text-decoration: none"}{:target="_blank"}] [[Project Page](https://chrisyeh96.github.io/sustaingym/){:style="text-decoration: none"}{:target="_blank"}]
+[[PDF](https://proceedings.neurips.cc/paper_files/paper/2023/file/ba74855789913e5ed36f87288af79e5b-Paper-Datasets_and_Benchmarks.pdf){:style="text-decoration: none"}{:target="_blank"}] [[Code](https://github.com/chrisyeh96/sustaingym){:style="text-decoration: none"}{:target="_blank"}] [[Poster](https://rajeevdatta.github.io/files/poster.pdf){:style="text-decoration: none"}{:target="_blank"}] [[Project Page](https://chrisyeh96.github.io/sustaingym/){:style="text-decoration: none"}{:target="_blank"}]
 </span>
 
 ## Workshop
