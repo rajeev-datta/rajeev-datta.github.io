@@ -12,9 +12,9 @@ title                    : "Rajeev Datta"
 title_separator          : "-"
 name                     : &name "Rajeev Datta"
 description              : &description "CS PhD Student at Cornell University"
-url                      : https://rajeevdatta.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://rajeev-datta.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "rajeev-datta/rajeevdatta.github.io"
+repository               : "rajeev-datta/rajeev-datta.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
