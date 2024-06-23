@@ -1,0 +1,31 @@
+---
+title: "LEGO Stacking Robotic Arm"
+excerpt: "Robotic arm that autonomously locates and stacks large LEGO blocks onto a platform for ME/CS/EE 134 <em>Robotics: Motion Planning</em> <br/><img width='500' src='/images/robot.png'>"
+collection: portfolio
+---
+
+Our project for this hands-on robotics course was a robotic arm that
+could stack square quadros (large LEGO blocks) on a 3-D printed baseplate.
+The robot would track placed quadros in the workspace using a camera positioned above the robot 
+and continually stack them on available stacks of quadros on the baseplate.
+During execution, we anticipated a set of reasonable actions people would take
+when interacting with the robotic system. Our system handled if someone moves
+the location of a block during execution. Specifically, if a block is moved into the workspace,
+the camera system detects the additional block and updates the available blocks for the robot to
+sample and place from. If a block instead moved into the stacking workspace (the area defined by a clamped baseplate),
+our system would recognize the placed block as the start of a new stack and add it to
+the plausible stacks to sample from and stack onto. Someone can even be particularly mean
+and remove a block from an existing stack. In such a case, the detector system will update
+the stack height and continue stacking onto the newly altered stack in future time steps.
+Lastly, using a depth camera, people could stack blocks in workspace and the robot would, if sampling a stack,
+stack the highest block in the chosen stack.
+
+<iframe src="https://drive.google.com/file/d/1dSMh6sKBwjmjxC9ScRTN-2G3LH-m6Qs-/view"
+        width="800"
+        height="450">
+</iframe>
+<br/>
+<iframe src= "/files/me134_r2d2_final_report.pdf" 
+        width="800"
+        height="500"> 
+</iframe>  
